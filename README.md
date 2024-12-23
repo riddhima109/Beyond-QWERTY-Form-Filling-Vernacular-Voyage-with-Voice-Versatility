@@ -1,0 +1,2 @@
+# Beyond-QWERTY-Form-Filling-s-Vernacular-Voyage-with-Voice-Versatility
+Form-filling revolutionized by replacing traditional keyboards with GPT and Azure OpenAI, aiding frontline workers by overcoming language barriers, speeding workflows, and boosting productivity. Adaptable for tasks like bank account creation and digital identities, it ensures accessible, user-friendly input for diverse form-filling needs.
